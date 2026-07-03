@@ -4,7 +4,7 @@
 
 ### 🚀 Java Full Stack Developer | Java | Spring Boot | SQL | Web Technologies | AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;React+Learner;AI+Enthusiast+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Backend+Developer;Spring+Boot+Developer;AI+Enthusiast;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
 
 </div>
 
@@ -19,16 +19,16 @@
 
 🌱 Currently Learning
 - Spring Boot (Advanced)
-- AWS
+- Hibernate
 - React.js
+- Data Structures and Algorithm
 - System Design
-- Microservices
 
 🎯 Interested In
 
 - Backend Development
 - Full Stack Development
-- Artificial Intelligence
+- Web Applications
 - REST APIs
 - Cloud Technologies
 
