@@ -4,7 +4,7 @@
 
 ### 🚀 Java Full Stack Developer | Java | Spring Boot | SQL | Web Technologies | AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;React+Learner;AI+Application+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;React+Learner;AI+Enthusiast+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
 
 </div>
 
@@ -43,7 +43,6 @@
 ## Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ---
@@ -119,43 +118,22 @@ Spring Boot • Gmail API • OAuth • Java
 ---
 
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam92840&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
-
-</p>
-
----
 
 # 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam92840&theme=tokyo-night"/>
 
 </p>
 
@@ -163,9 +141,9 @@ Spring Boot • Gmail API • OAuth • Java
 
 # 🌍 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/sameer-tadvi-615bb3253)](Sameer_Tadvi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sameer-tadvi-615bb3253)
 
-[![Gmail](tadvisameer479@gmail.com)](mailto:Sameer_Tadvi)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:tadvisameer479@gmail.com)
 
 ---
 
