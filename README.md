@@ -12,9 +12,7 @@
 
 # 💫 About Me
 
-🎓 Persuing M.Tech (2025-2027)
-
-🎓 B.Tech Computer Science Engineering Graduate (2025)
+🎓 Persuing M.Tech (2025-2027) | B.Tech Computer Science Engineering Graduate (2025)
 
 💻 Passionate about developing scalable Web applications and Technologies
 
